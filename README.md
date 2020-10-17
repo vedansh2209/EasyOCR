@@ -12,7 +12,7 @@ Ready-to-use OCR with 70+ languages supported including Chinese, Japanese, Korea
 - 12 October 2020 - Version 1.1.10
     - Faster `beamsearch` decoder (thanks @amitbcp)
     - Better code structure (thanks @susmith98)
-    - New language supports for Haryanvi(bgc), Sanskrit(sa) (Devanagari Script) and Manipuri(mni) (Bengari Script)
+    - New language supports for Haryanvi(bgc), Sanskrit(sa) (Devanagari Script) and Manipuri(mni) (Bengali Script)
 - 31 August 2020 - Version 1.1.9
     - Add `detect` and `recognize` method for performing text detection and recognition separately
 
